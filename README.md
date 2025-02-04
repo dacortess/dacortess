@@ -1,7 +1,3 @@
-Aquí tienes la traducción al inglés:  
-
----
-
 # Hello! I'm David 👋  
 
 ## 🚀 About Me  
