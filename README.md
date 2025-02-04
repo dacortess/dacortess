@@ -39,6 +39,11 @@ Aplicación web para cifrado, descifrado y análisis de criptografía con divers
 Visualizador de algoritmos de búsqueda (DFS, BFS, Greedy, A\*) para resolver laberintos.\
 🛠️ Tecnologías: Python (Pygame, Tkinter), C++
 
+Optimización de semáforos usando procesos de decisión de markov
+
+Sistema de aprendizaje por refuerzo para el manejo de tráfico vehicular basado en cadenas de Markov.\
+🛠️ Tecnologías: Python
+
 ---
 
 ## 🛠️ Habilidades Técnicas
