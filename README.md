@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 
-I am a Computer Science student passionate about programming, problem-solving, and software development. I am particularly interested in automation, algorithms, and data science. I am always looking for new knowledge and technologies to improve my skills and create efficient solutions.  
+I’m a Computer Science student who loves turning caffeine into code and solving problems that probably didn’t exist before I started coding. I have a deep passion for automation, algorithms, and data science—basically, anything that makes computers do the work while I take the credit.
 
 📍 Bogotá D.C., Colombia  
 📧 [dcortessalazar@gmail.com](mailto:dcortessalazar@gmail.com)  
