@@ -1,63 +1,66 @@
-# ¡Hola! Soy David 👋
-
-## 🚀 Sobre mí
-
-Soy un estudiante de Ciencias de la Computación apasionado por la programación, la resolución de problemas y el desarrollo de software. Me interesa especialmente la automatización, los algoritmos y la ciencia de datos. Siempre estoy en busca de nuevos conocimientos y tecnologías para mejorar mis habilidades y crear soluciones eficientes.
-
-📍 Bogotá D.C., Colombia\
-📧 [dcortessalazar@gmail.com](mailto\:dcortessalazar@gmail.com)\
-🔗 [LinkedIn](https://www.linkedin.com/in/davidccortes/)\
-🔗 [Portafolio](https://dacortess.github.io/portfolio/)\
-🔗 [GitHub](https://github.com/dacortess)
+Aquí tienes la traducción al inglés:  
 
 ---
 
-## 💼 Experiencia Laboral
+# Hello! I'm David 👋  
 
-### Automatizador de Procesos - Talentpitch (05/22 – 10/22)
+## 🚀 About Me  
 
-- Desarrollo de bots para automatizar publicaciones en redes sociales según tendencias.
-- Implementación y monitoreo de sistemas escalables en  Airflow.
-- Apoyo en el desarrollo del front-end de dashboards para la visualización de métricas clave.
+I am a Computer Science student passionate about programming, problem-solving, and software development. I am particularly interested in automation, algorithms, and data science. I am always looking for new knowledge and technologies to improve my skills and create efficient solutions.  
 
----
-
-## 📂 Proyectos Destacados
-
-### [Space Destroyer](https://github.com/dacortess/Space-Destroyer) (2022)
-
-Desarrollo de un juego de plataformas con un sistema multijugador basado en sockets.\
-🛠️ Tecnologías: Python (Pygame, Sockets)
-
-### [Crypto Analyzer](https://github.com/dacortess/Intro-Crypto-Project) (2025)
-
-Aplicación web para cifrado, descifrado y análisis de criptografía con diversas técnicas.\
-🛠️ Tecnologías: Python (Flask), TypeScript, Tailwind, Vite
-
-### [Maze Solver](https://github.com/dacortess/maze_solver_iia) (2022)
-
-Visualizador de algoritmos de búsqueda (DFS, BFS, Greedy, A\*) para resolver laberintos.\
-🛠️ Tecnologías: Python (Pygame, Tkinter), C++
-
-### [Optimización de semáforos usando procesos de decisión de markov](https://github.com/dangarciahe/Cadenas_de_Markov/) (2024)
-
-Sistema de aprendizaje por refuerzo para el manejo de tráfico vehicular basado en cadenas de Markov.\
-🛠️ Tecnologías: Python
+📍 Bogotá D.C., Colombia  
+📧 [dcortessalazar@gmail.com](mailto:dcortessalazar@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/davidccortes/)  
+🔗 [Portfolio](https://dacortess.github.io/portfolio/)  
+🔗 [GitHub](https://github.com/dacortess)  
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 💼 Work Experience  
 
-- **Lenguajes:** Python, Java, C/C++, TypeScript, SQL
-- **Frameworks y Herramientas:** React, Flask, Docker, Git
-- **Otros:** Algoritmos avanzados, Inteligencia Artificial, Automatización
+### Process Automation Developer - Talentpitch (05/22 – 10/22)  
+
+- Developed bots to automate social media postings based on trends.  
+- Implemented and monitored scalable systems using Airflow.  
+- Assisted in front-end development of dashboards for key metric visualization.  
 
 ---
 
-## 🎮 Hobbies
+## 📂 Featured Projects  
 
-- Videojuegos 🎮
-- Programación competitiva (LeetCode, Hackerrank, Google Foobar) 💻
+### [Space Destroyer](https://github.com/dacortess/Space-Destroyer) (2022)  
 
-¡Gracias por visitar mi perfil! 🚀 Si tienes un proyecto interesante, no dudes en contactarme. 😃
+Development of a platform game with a multiplayer system based on sockets.  
+🛠️ Technologies: Python (Pygame, Sockets)  
 
+### [Crypto Analyzer](https://github.com/dacortess/Intro-Crypto-Project) (2025)  
+
+Web application for encryption, decryption, and cryptographic analysis using various techniques.  
+🛠️ Technologies: Python (Flask), TypeScript, Tailwind, Vite  
+
+### [Maze Solver](https://github.com/dacortess/maze_solver_iia) (2022)  
+
+Visualizer for search algorithms (DFS, BFS, Greedy, A\*) to solve mazes.  
+🛠️ Technologies: Python (Pygame, Tkinter), C++  
+
+### [Traffic Light Optimization Using Markov Decision Processes](https://github.com/dangarciahe/Cadenas_de_Markov/) (2024)  
+
+Reinforcement learning system for traffic management based on Markov chains.  
+🛠️ Technologies: Python  
+
+---
+
+## 🛠️ Technical Skills  
+
+- **Languages:** Python, Java, C/C++, TypeScript, SQL  
+- **Frameworks & Tools:** React, Flask, Docker, Git  
+- **Other:** Advanced Algorithms, Artificial Intelligence, Automation  
+
+---
+
+## 🎮 Hobbies  
+
+- Video games 🎮  
+- Competitive programming (LeetCode, Hackerrank, Google Foobar) 💻  
+
+Thank you for visiting my profile! 🚀 If you have an interesting project, feel free to contact me. 😃  
