@@ -39,7 +39,7 @@ Aplicación web para cifrado, descifrado y análisis de criptografía con divers
 Visualizador de algoritmos de búsqueda (DFS, BFS, Greedy, A\*) para resolver laberintos.\
 🛠️ Tecnologías: Python (Pygame, Tkinter), C++
 
-Optimización de semáforos usando procesos de decisión de markov
+### [Optimización de semáforos usando procesos de decisión de markov](https://github.com/dangarciahe/Cadenas_de_Markov/) (2024)
 
 Sistema de aprendizaje por refuerzo para el manejo de tráfico vehicular basado en cadenas de Markov.\
 🛠️ Tecnologías: Python
