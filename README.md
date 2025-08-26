@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 
-I’m a Computer Science student who loves turning caffeine into code and solving problems that probably didn’t exist before I started coding. I have a deep passion for automation, algorithms, and data science—basically, anything that makes computers do the work while I take the credit.
+I’m a Computer Science student who loves turning caffeine into code and solving problems that probably didn’t exist before I started coding. I have a deep passion for automation, algorithms, and data science, basically anything that makes computers do the work while I take the credit.
 
 📍 Based in Bogotá, Colombia, but available in all time zones thanks to my nocturnal coding habits.
 
