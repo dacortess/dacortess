@@ -15,6 +15,13 @@ I’m a Computer Science student who likes solving problems that probably didn�
 
 ## 💼 Work Experience  
 
+### Software Engineer intern - Evolution Consultig (10/25 - Present)
+
+- Maintaining and developing new features for a monolithic web application built with PHP Laravel.
+- Contributing to backend microservice development using Java Spring Boot.
+- Gathering requirements and working directly with clients to define new functionalities and implement system changes.
+- Supporting application stability, bug fixing, and continuous improvement of the platform.
+
 ### Process Automation Developer - Talentpitch (05/22 – 10/22)  
 
 - Developed bots to automate social media postings based on trends.  
@@ -24,6 +31,11 @@ I’m a Computer Science student who likes solving problems that probably didn�
 ---
 
 ## 📂 Featured Projects  
+
+### [Table Snap Pro](https://github.com/dacortess/table-snap-pro) (2026)
+
+Web application that extracts tables from images using computer vision models and converts them into Excel files automatically.
+🛠️ Technologies: Next.js, React, TypeScript, Tailwind CSS, OpenRouter API, Sheet JS
 
 ### [Space Destroyer](https://github.com/dacortess/Space-Destroyer) (2022)  
 
@@ -40,17 +52,12 @@ Web application for encryption, decryption, and cryptographic analysis using var
 Visualizer for search algorithms (DFS, BFS, Greedy, A\*) to solve mazes.  
 🛠️ Technologies: Python (Pygame, Tkinter), C++  
 
-### [Traffic Light Optimization Using Markov Decision Processes](https://github.com/dangarciahe/Cadenas_de_Markov/) (2024)  
-
-Reinforcement learning system for traffic management based on Markov chains.  
-🛠️ Technologies: Python  
-
 ---
 
 ## 🛠️ Technical Skills  
 
-- **Languages:** Python, Java, C/C++, TypeScript, SQL  
-- **Frameworks & Tools:** React, Flask, Docker, Git  
+- **Languages:** Python, PHP, Java, C/C++, TypeScript, SQL  
+- **Frameworks & Tools:** React, Next Js, Flask, Docker, Git  
 - **Other:** Advanced Algorithms, Artificial Intelligence, Automation  
 
 ---
