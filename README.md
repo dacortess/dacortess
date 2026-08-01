@@ -15,7 +15,7 @@ I’m a Computer Science student who likes solving problems that probably didn�
 
 ## 💼 Work Experience  
 
-### Software Engineer intern - Evolution Consultig (10/25 - Present)
+### Software Engineer - Evolution Consultig (10/25 - Present)
 
 - Maintaining and developing new features for a monolithic web application built with PHP Laravel.
 - Contributing to backend microservice development using Java Spring Boot.
