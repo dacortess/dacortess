@@ -7,7 +7,7 @@ I’m a Computer Science student who likes solving problems that probably didn�
 📍 Based in Bogotá, Colombia, but available in all time zones thanks to my nocturnal coding habits.
 
 📧 [dcortessalazar@gmail.com](mailto:david@dacortess.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/davcortess/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/dacortess/)  
 🔗 [Portfolio](https://dacortess.com)  
 🔗 [GitHub](https://github.com/dacortess)  
 
